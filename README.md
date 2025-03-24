@@ -1,6 +1,6 @@
-# Hi there, I'm Sandesh Upadhyay! 👋  
+# Hi there, I'm Yuvraj Mishra! 👋  
 
-🚀 **Full Stack Developer | AI & Web Enthusiast | Open Source Contributor**  
+🚀 **Web Developer | AI & Web Enthusiast | Open Source Contributor**  
 
 I specialize in building scalable web applications, AI-powered solutions, and modern frontend experiences. Passionate about problem-solving, open-source, and contributing to impactful projects.  
 
@@ -9,7 +9,7 @@ I specialize in building scalable web applications, AI-powered solutions, and mo
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandesh-Upadhyay&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheYuvrajMishra&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -18,41 +18,29 @@ I specialize in building scalable web applications, AI-powered solutions, and mo
 
 ### **Frontend Development**  
 - React.js, Next.js, TypeScript, JavaScript  
-- Tailwind CSS, Material UI, Bootstrap  
+- Tailwind CSS
 
 ### **Backend Development**  
-- Node.js, Express.js, Supabase  
-- RESTful APIs, WebSockets  
+- Node.js  
 
 ### **Databases & Cloud**  
-- MongoDB, PostgreSQL, Firebase  
-- Supabase, AWS (Basics)  
+- MongoDB  
 
 ### **Tools & Other**  
-- Git, GitHub, Docker (Basics)  
-- CI/CD (GitHub Actions)  
-- Postman, Figma  
+- Git, GitHub, Docker (Basics)    
+- Figma  
 
 ---
 
-## 📌 Featured Projects  
-
-🔗 **AI-Powered Task Manager**  
-[Live](https://ai-powered-task-manager.netlify.app/)  
-
-🔗 **URL Shortener**  
-[Live](https://url-shortener-rosy.vercel.app/) | [GitHub](https://github.com/Sandesh-Upadhyay/URL-Shortener)  
-
----
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandesh-Upadhyay&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandesh-Upadhyay&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheYuvrajMishra&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh-Upadhyay&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYuvrajMishra&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
 ---
@@ -60,18 +48,16 @@ I specialize in building scalable web applications, AI-powered solutions, and mo
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandesh-Upadhyay&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheYuvrajMishra&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 📫 Connect with Me  
 
-📧 **Email:** [upadhyaysandesh28@gmail.com](mailto:upadhyaysandesh28@gmail.com)  
-💼 **LinkedIn:** [Profile](https://www.linkedin.com/in/sandesh-upadhyay-671bb8253/)  
-🐦 **Twitter (X):** [@Sandeshup_2024](https://x.com/Sandeshup_2024)  
-🌐 **Portfolio:** [Visit Here](https://sandesh-upadhyay.github.io/)  
-🚀 **GitHub:** [Sandesh-Upadhyay](https://github.com/Sandesh-Upadhyay)  
+📧 **Email:** [yuvraj17mishra11@gmail.com](mailto:yuvraj17mishra11@gmail.com)  
+💼 **LinkedIn:** [Profile](https://www.linkedin.com/in/the-yuvraj-mishra/)  
+🚀 **GitHub:** [Sandesh-Upadhyay](https://github.com/TheYuvrajMishra)  
 
 ---
 
@@ -79,7 +65,7 @@ I specialize in building scalable web applications, AI-powered solutions, and mo
 
 Love my work? Consider buying me a coffee!  
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/sandeshupa28)  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/YuvrajMishra)  
 
 ---
 
@@ -93,5 +79,5 @@ _"Code is like humor. When you have to explain it, it’s bad."_ 😆
 ## 🔥 Profile Views  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandesh-Upadhyay&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=TheYuvrajMishra&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
