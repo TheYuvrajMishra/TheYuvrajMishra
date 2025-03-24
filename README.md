@@ -57,7 +57,7 @@ I specialize in building scalable web applications, AI-powered solutions, and mo
 
 📧 **Email:** [yuvraj17mishra11@gmail.com](mailto:yuvraj17mishra11@gmail.com)  
 💼 **LinkedIn:** [Profile](https://www.linkedin.com/in/the-yuvraj-mishra/)  
-🚀 **GitHub:** [Sandesh-Upadhyay](https://github.com/TheYuvrajMishra)  
+🚀 **GitHub:** [TheYuvrajMishra](https://github.com/TheYuvrajMishra)  
 
 ---
 
