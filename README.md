@@ -1,9 +1,8 @@
 <!-- ✨ HERO SECTION -->
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&pause=1000&color=89CFF0&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Yuvraj+Mishra;Full+Stack+Developer;Building+beautiful+UIs+and+solid+backends+%F0%9F%8C%8C;Code.+Design.+Debug.+Repeat+%E2%9C%8C%EF%B8%8F" />
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=220&section=header&text=Yuvraj%20Mishra&fontSize=48&fontColor=89CFF0&fontAlignY=40" />
 
 
 <p align="center">
@@ -72,7 +71,7 @@
 
 <p align="center" style="font-size: 16px;"> 🚀 A consistent contributor with a passion for building full-stack applications, solving real-world problems, and learning through code. <br/> 🔍 I believe in writing clean, maintainable code — whether it’s shipping a production-ready feature or exploring new tech through side projects. <br/> 🧠 Currently deepening my expertise in TypeScript, React, Node.js, and DevOps tooling. Here's a glance at my GitHub trajectory: </p> <br/> <div align="center"> 
 <!-- GitHub Stats --> 
-<img src="[https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" alt="Yuvraj's GitHub Stat](https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)s" />
+<img src="https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=radical" alt="stats" />
 <br/><br/>
 
 <!-- Most Used Languages --> 
@@ -128,4 +127,8 @@ deploy(success);
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheYuvrajMishra&label=Profile%20Views&color=89CFF0&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&pause=1000&color=89CFF0&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Yuvraj+Mishra;Full+Stack+Developer;Building+beautiful+UIs+and+solid+backends+%F0%9F%8C%8C;Code.+Design.+Debug.+Repeat+%E2%9C%8C%EF%B8%8F" />
 </p>
