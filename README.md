@@ -70,13 +70,17 @@
 
 ### 📊 GitHub Insights
 
-<div align="center">
+<p align="center" style="font-size: 16px;"> 🚀 A consistent contributor with a passion for building full-stack applications, solving real-world problems, and learning through code. <br/> 🔍 I believe in writing clean, maintainable code — whether it’s shipping a production-ready feature or exploring new tech through side projects. <br/> 🧠 Currently deepening my expertise in TypeScript, React, Node.js, and DevOps tooling. Here's a glance at my GitHub trajectory: </p> <br/> <div align="center"> 
+<!-- GitHub Stats --> 
+<img src="https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" alt="Yuvraj's GitHub Stats" />
+<br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYuvrajMishra&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Most Used Languages --> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYuvrajMishra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages Used" />
+<br/><br/>
 
-</div>
+<!-- Contribution Graph --> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheYuvrajMishra&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" /> </div>
 
 ---
 
