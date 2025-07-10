@@ -1,7 +1,7 @@
 <!-- ✨ HERO SECTION -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,141414&height=260&section=header&text=Yuvraj%20Mishra&fontSize=60&fontColor=89CFF0&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Explorer%20%7C%20GaminKart%20Creator&descAlign=50&descAlignY=65&descSize=20&font=Fira%20Code" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,141414&height=260&section=header&text=Yuvraj%20Mishra&fontSize=60&fontColor=89CFF0&fontAlign=50&fontAlignY=35&font=Fira%20Code" />
 
 
 
@@ -11,8 +11,7 @@
   <br />
 
   <img src="https://img.shields.io/badge/TypeScript-Lover-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-Enthusiast-000000?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-0f0f0f?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Enthusiast-000000?style=flat-square&logo=next.js" />
 </div>
 
 ---
