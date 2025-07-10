@@ -2,7 +2,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=89CFF0&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Yuvraj+Mishra;Full+Stack+Developer+%7C+CA+Finalist+%7C+Finance+Nerd;Building+beautiful+UIs+and+solid+backends+with+vibes+%F0%9F%8C%8C;Code.+Design.+Debug.+Repeat+%E2%9C%8C%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=89CFF0&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Yuvraj+Mishra;Full+Stack+Developer;Building+beautiful+UIs+and+solid+backends+with+vibes+%F0%9F%8C%8C;Code.+Design.+Debug.+Repeat+%E2%9C%8C%EF%B8%8F" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="60%" />
