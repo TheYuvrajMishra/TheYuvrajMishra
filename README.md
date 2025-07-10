@@ -1,7 +1,8 @@
 <!-- ✨ HERO SECTION -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=220&section=header&text=Yuvraj%20Mishra&fontSize=48&fontColor=89CFF0&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,141414&height=250&section=header&text=Yuvraj%20Mishra&fontSize=55&fontColor=89CFF0&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Dev%20%7C%20AI%20Explorer%20%7C%20GaminKart%20Builder&descAlign=50&descAlignY=65&descSize=18" />
+
 
   <h3 style="font-weight:normal;">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🎮 Want to be a Game Dev</h3>
   <p style="font-style: italic;">Crafting pixels & logic into experiences that matter.</p>
