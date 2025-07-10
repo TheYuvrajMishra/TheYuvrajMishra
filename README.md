@@ -72,7 +72,7 @@
 
 <p align="center" style="font-size: 16px;"> 🚀 A consistent contributor with a passion for building full-stack applications, solving real-world problems, and learning through code. <br/> 🔍 I believe in writing clean, maintainable code — whether it’s shipping a production-ready feature or exploring new tech through side projects. <br/> 🧠 Currently deepening my expertise in TypeScript, React, Node.js, and DevOps tooling. Here's a glance at my GitHub trajectory: </p> <br/> <div align="center"> 
 <!-- GitHub Stats --> 
-<img src="https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" alt="Yuvraj's GitHub Stats" />
+<img src="[https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" alt="Yuvraj's GitHub Stat](https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)s" />
 <br/><br/>
 
 <!-- Most Used Languages --> 
