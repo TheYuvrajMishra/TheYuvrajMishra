@@ -1,9 +1,9 @@
 <!-- ✨ HERO SECTION -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,141414&height=260&section=header&text=Yuvraj%20Mishra&fontSize=60&fontColor=89CFF0&fontAlign=50&fontAlignY=35&font=Fira%20Code" />
-
-
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=89CFF0&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Yuvraj+Mishra;CA+Finalist+%7C+Valuation+Ninja+%7C+Code+Crafter;Tech-savvy+Finance+Enthusiast+%7C+Gaming+Gearhead" />
+</p>
 
   <h3 style="font-weight:normal;">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🎮 Want to be a Game Dev</h3>
   <p style="font-style: italic;">Crafting pixels & logic into experiences that matter.</p>
