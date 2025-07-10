@@ -3,7 +3,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=220&section=header&text=Yuvraj%20Mishra&fontSize=48&fontColor=89CFF0&fontAlignY=40" />
 
-  <h3 style="font-weight:normal;">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🎮 GaminKart Architect</h3>
+  <h3 style="font-weight:normal;">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🎮 Want to be a Game Dev</h3>
   <p style="font-style: italic;">Crafting pixels & logic into experiences that matter.</p>
 
   <br />
