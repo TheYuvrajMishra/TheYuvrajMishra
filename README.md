@@ -1,97 +1,125 @@
-<!-- HERO SECTION -->
+<!-- ✨ HERO SECTION -->
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=200&section=header&text=Yuvraj%20Mishra&fontSize=50&fontColor=89CFF0" />
 
-  <h2 style="font-weight:normal;">👨‍💻 Web Developer | 🧠 AI Explorer | 🎮 GaminKart Builder</h2>
-  <p style="font-style: italic;">Bridging the matrix between imagination & implementation.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=220&section=header&text=Yuvraj%20Mishra&fontSize=48&fontColor=89CFF0&fontAlignY=40" />
 
-  <img src="https://img.shields.io/badge/TypeScript-Lover-blue?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Addict-0f0f0f?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-Fanboy-black?style=flat-square&logo=next.js" />
+  <h3 style="font-weight:normal;">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🎮 GaminKart Architect</h3>
+  <p style="font-style: italic;">Crafting pixels & logic into experiences that matter.</p>
+
+  <br />
+
+  <img src="https://img.shields.io/badge/TypeScript-Lover-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Enthusiast-000000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-0f0f0f?style=flat-square&logo=github&logoColor=white" />
 </div>
 
 ---
 
-### 🧠 `> whoami`
+### 👨‍💻 `> about`
 
 ```bash
-> Passionate creator blending frontend elegance with backend logic.
-> Startup tinkerer. Open source appreciator. UX snob.
-> Currently building: GaminKart ⚡
+> Passionate technologist building interfaces with purpose and products with polish.
+> A design-first coder who loves solving real problems with beautiful code.
+> Currently developing: GaminKart ⚡ – your next favorite eCommerce for gaming gear.
 ```
 
 ---
 
-### 💻 Tech Arsenal
+### 🧰 Tech Stack
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,tailwind,figma,docker,mongodb,vercel,git" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,tailwind,figma,docker,mongodb,vercel,git" />
+  
+  <br /><br />
+
+  <table>
+    <tr>
+      <td><b>Frontend</b></td>
+      <td>React, Next.js, TypeScript, JavaScript, TailwindCSS</td>
+    </tr>
+    <tr>
+      <td><b>Backend</b></td>
+      <td>Node.js, Express.js</td>
+    </tr>
+    <tr>
+      <td><b>DevOps & Tools</b></td>
+      <td>Docker, Git, GitHub Actions, Vercel</td>
+    </tr>
+    <tr>
+      <td><b>Design</b></td>
+      <td>Figma, Framer, Design Systems</td>
+    </tr>
+    <tr>
+      <td><b>Database</b></td>
+      <td>MongoDB, Firebase</td>
+    </tr>
+  </table>
 
   <br />
-  <sub><i>Design systems are my second language.</i></sub>
+  <sub><i>Clean code. Scalable systems. Beautiful design.</i></sub>
 
 </div>
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Insights
 
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-  <br />
+  <br /><br />
   <img src="https://streak-stats.demolab.com?user=TheYuvrajMishra&theme=tokyonight&hide_border=true" />
-  <br />
+  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYuvrajMishra&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-### 🛠️ Current Projects
+### 🚧 Work in Progress
 
 ```ts
-const active = [
-  "🛒 GaminKart – eCommerce for gamers",
-  "📱 Portfolio Reboot – Minimal + Futuristic",
-  "🧠 DevNotes – Markdown meets AI meets Flow"
+const activeProjects = [
+  "🛒 GaminKart – Gaming eCommerce experience",
+  "📱 Portfolio Reboot – Minimal + Framer Motion vibes",
+  "🧠 DevNotes – AI-assisted Markdown + Flow-based notes"
 ]
 ```
 
 ---
 
-### ☕ Coffee ≠ Code but helps
+### ☕ Coffee keeps the bugs away
 
 <div align="center">
 
   <a href="https://www.buymeacoffee.com/YuvrajMishra">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95%EF%B8%8F-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=yellow" />
   </a>
 
 </div>
 
 ---
 
-### 🌐 Let’s Connect
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:yuvraj17mishra11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/the-yuvraj-mishra/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/the-yuvraj-mishra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/TheYuvrajMishra"><img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Logic
 
 ```js
-if (code.hurts && coffee < 3) {
-  retry();
-} else {
-  deploy(legendaryProduct);
+while (!perfectCode) {
+  coffee++;
+  refactor();
 }
+
+deploy(success);
 ```
 
 ---
@@ -100,6 +128,5 @@ if (code.hurts && coffee < 3) {
   <img src="https://komarev.com/ghpvc/?username=TheYuvrajMishra&label=Profile%20Views&color=89CFF0&style=flat-square" />
 </p>
 
-<!-- FOOTER -->
-
+<!-- 🌙 FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer" />
