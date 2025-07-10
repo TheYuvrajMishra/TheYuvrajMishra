@@ -95,10 +95,17 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:yuvraj17mishra11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/the-yuvraj-mishra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/TheYuvrajMishra"><img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:yuvraj17mishra11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/the-yuvraj-mishra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/TheYuvrajMishra">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
+
 
 ---
 
@@ -118,6 +125,3 @@ deploy(success);
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheYuvrajMishra&label=Profile%20Views&color=89CFF0&style=flat-square" />
 </p>
-
-<!-- 🌙 FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer" />
