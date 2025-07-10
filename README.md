@@ -69,23 +69,9 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com?user=TheYuvrajMishra&theme=tokyonight&hide_border=true" />
-  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYuvrajMishra&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-### 🚧 Work in Progress
-
-```ts
-const activeProjects = [
-  "🛒 GaminKart – Gaming eCommerce experience",
-  "📱 Portfolio Reboot – Minimal + Framer Motion vibes",
-  "🧠 DevNotes – AI-assisted Markdown + Flow-based notes"
-]
-```
 
 ---
 
