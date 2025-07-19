@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="60%" />
 </p>
   <h3 style="font-weight:normal;">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🎮 Want to be a Game Dev</h3>
-  <p style="font-style: italic;">Crafting pixels & logic into experiences that matter.</p>
+  <p style="font-style: italic;">Crafting pixels & logic into experiences that matter</p>
 
   <br />
 
