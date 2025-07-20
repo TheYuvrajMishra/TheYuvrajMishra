@@ -24,7 +24,6 @@
 ```bash
 > Passionate technologist building interfaces with purpose and products with polish.
 > A design-first coder who loves solving real problems with beautiful code.
-> Currently developing: GaminKart ⚡ – your next favorite eCommerce for gaming gear.
 ```
 
 ---
