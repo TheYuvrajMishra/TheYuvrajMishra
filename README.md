@@ -4,129 +4,291 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e5f1ff&height=220&section=header&text=Yuvraj%20Mishra&fontSize=48&fontColor=0f0f0f&fontAlignY=40" />
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="60%" />
-</p>
-  <h3 style="font-weight:normal;">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🎮 Want to be a Game Dev</h3>
-  <p style="font-style: italic;">Crafting pixels & logic into experiences that matter</p>
+# ✨ Yuvraj Mishra's Portfolio
 
-  <br />
+<div align="center">
+  
+  <img src="https://avatars.githubusercontent.com/u/204442132?v=4" alt="Yuvraj Mishra" width="150" height="150" style="border-radius: 50%;" />
+  
+  ### 👋 Hi, I'm Yuvraj Mishra
+  
+  **`Full-Stack Developer | AI Enthusiast | Aspiring Game Dev`**
+  
+  <p align="center">
+    Passionate technologist building interfaces with purpose and products with polish.<br/>
+    A design-first coder who loves solving real problems with beautiful code.<br/>
+    <em>Crafting pixels & logic into experiences that matter.</em>
+  </p>
 
-  <img src="https://img.shields.io/badge/TypeScript-Lover-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-Enthusiast-000000?style=flat-square&logo=next.js" />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-yuvraj-mishra/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheYuvrajMishra)
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YuvrajMishra)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=TheYuvrajMishra&color=brightgreen&style=flat-square)
+  
 </div>
 
 ---
 
-### 👨‍💻 `> about`
+<div align="center">
+  
+  ## 🎯 Quick Navigation
+  
+  [About](#-about-me) • [Tech Stack](#-tech-stack) • [Projects](#-featured-projects) • [Stats](#-github-stats) • [Contact](#-lets-connect)
+  
+</div>
 
-```bash
-> Passionate technologist building interfaces with purpose and products with polish.
-> A design-first coder who loves solving real problems with beautiful code.
+---
+
+## 🚀 About This Repository
+
+> **Welcome to my digital portfolio!** This repository contains the source code for my personal portfolio website - a modern, responsive, and performant showcase of my work and skills.
+
+```yaml
+Status: Active Development
+Version: 2.0.0
+Last Updated: October 2025
+License: MIT
+```
+
+### 🌟 Features
+
+- ⚡ **Lightning Fast** - Optimized for performance
+- 📱 **Fully Responsive** - Works on all devices
+- 🎨 **Beautiful UI/UX** - Design-first approach
+- ♿ **Accessible** - WCAG compliant
+- 🌙 **Dark Mode** - Easy on the eyes
+- 🔍 **SEO Optimized** - Better discoverability
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const yuvraj = {
+  location: "Kolkata, India 🇮🇳",
+  role: "Full-Stack Developer",
+  company: "ZyrixCraft",
+  education: "Computer Science Student",
+  currentFocus: ["TypeScript", "React", "Node.js", "DevOps"],
+  interests: ["AI/ML", "Game Development", "Design Systems", "Open Source"],
+  motto: "Design. Code. Repeat.",
+  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+### 🎓 Journey
+
+- 🏫 **Education**: Baidyapara High School
+- 💼 **Current Role**: Web Developer & UI/UX Designer @ ZyrixCraft
+- 🌱 **Learning**: Advanced TypeScript, System Design, Cloud Architecture
+- 🎯 **Goal**: Build products that make a difference
+
+> *"Turning coffee into code since... well, recently, but with passion!"* ☕
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYuvrajMishra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheYuvrajMishra&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheYuvrajMishra&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=TheYuvrajMishra&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 💼 Experience
+
+```mermaid
+graph TD
+    A[fa:fa-user-graduate Student]
+    B[fa:fa-lightbulb Self-Learning]
+    C[fa:fa-code-branch ZyrixCraft]
+    D[fa:fa-palette Web Developer & UI/UX Designer]
+    E[fa:fa-building-columns Building the Future...]
+
+    A ==> B
+    B ==> C
+    C ==> D
+    D ==> E
+    
+    %% Styling
+    classDef base font-weight:bold,stroke-width:2px,padding:5px,border-radius:10px
+    classDef start fill:#E0F2FE,stroke:#0EA5E9,color:#0369A1
+    classDef learning fill:#D1FAE5,stroke:#10B981,color:#065F46
+    classDef project fill:#F3E8FF,stroke:#9333EA,color:#581C87
+    classDef role fill:#FFFBEB,stroke:#F59E0B,color:#B45309
+    classDef future fill:#FEF2F2,stroke:#EF4444,color:#991B1B
+
+    class A,B,C,D,E base
+    class A start
+    class B learning
+    class C project
+    class D role
+    class E future
+
+    linkStyle default stroke:#9CA3AF,stroke-width:3px,color:black
 ```
 
 ---
 
-### 🧰 Tech Stack
+## 📚 Currently Learning
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,tailwind,figma,docker,mongodb,vercel,git" />
-  
-  <br /><br />
-
-  <table>
-    <tr>
-      <td><b>Frontend</b></td>
-      <td>React, Next.js, TypeScript, JavaScript, TailwindCSS</td>
-    </tr>
-    <tr>
-      <td><b>Backend</b></td>
-      <td>Node.js, Express.js</td>
-    </tr>
-    <tr>
-      <td><b>DevOps & Tools</b></td>
-      <td>Docker, Git, GitHub Actions, Vercel</td>
-    </tr>
-    <tr>
-      <td><b>Design</b></td>
-      <td>Figma, Framer, Design Systems</td>
-    </tr>
-    <tr>
-      <td><b>Database</b></td>
-      <td>MongoDB, Firebase</td>
-    </tr>
-  </table>
-
-  <br />
-  <sub><i>Clean code. Scalable systems. Beautiful design.</i></sub>
+| Technology | Progress | Priority |
+|------------|----------|----------|
+| Advanced TypeScript | ████████░░ 80% | 🔥 High |
+| System Design | ██████░░░░ 60% | 🔥 High |
+| Docker & K8s | ████░░░░░░ 40% | 🔸 Medium |
+| AWS/Cloud | ███░░░░░░░ 30% | 🔸 Medium |
+| Game Dev (Unity) | ██░░░░░░░░ 20% | 💚 Low |
 
 </div>
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center" style="font-size: 16px;"> 🚀 A consistent contributor with a passion for building full-stack applications, solving real-world problems, and learning through code. <br/> 🔍 I believe in writing clean, maintainable code — whether it’s shipping a production-ready feature or exploring new tech through side projects. <br/> 🧠 Currently deepening my expertise in TypeScript, React, Node.js, and DevOps tooling. Here's a glance at my GitHub trajectory: </p> <br/> <div align="center"> 
-<!-- GitHub Stats --> 
-<img src="https://github-readme-stats.vercel.app/api?username=TheYuvrajMishra&show_icons=true&theme=radical" alt="stats" />
-<br/><br/>
-
-<!-- Most Used Languages --> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYuvrajMishra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages Used" />
-<br/><br/>
-
-<!-- Contribution Graph --> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheYuvrajMishra&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" /> </div>
-
 ---
 
-### ☕ Coffee keeps the bugs away
+## 📞 Let's Connect!
 
 <div align="center">
 
-  <a href="https://www.buymeacoffee.com/YuvrajMishra">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=yellow" />
-  </a>
+### 💬 I'm always open to interesting conversations and collaboration opportunities!
 
-</div>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:yuvraj17mishra11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+<p>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/the-yuvraj-mishra/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/TheYuvrajMishra">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://twitter.com/YourTwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://discord.gg/YourDiscord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
+### ☕ Support My Work
+
+If you like what I do, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YuvrajMishra)
+
+</div>
 
 ---
 
-### ⚡ Fun Logic
+## 🚀 Portfolio Website
 
-```js
-while (!perfectCode) {
-  coffee++;
-  refactor();
-}
+[![Click Here to Vist](https://yuvrajmishra.vercel.com)]
 
-deploy(success);
+
+### 📋 Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn
+- Git
+
+---
+
+## 📄 License
+
+<div align="center">
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+```
+MIT License - Feel free to use this as inspiration for your own portfolio!
 ```
 
+</div>
+
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheYuvrajMishra&label=Profile%20Views&color=89CFF0&style=flat-square" />
+## 🙏 Acknowledgments
+
+- Thanks to all the amazing open-source projects that made this possible
+- Shoutout to the dev community for constant inspiration
+- Special thanks to everyone who has supported my journey
+
+---
+
+<div align="center">
+
+### 💖 Made with Love and Code
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
+
+<p>
+  <img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Powered_by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="Powered by Coffee"/>
+  <img src="https://img.shields.io/badge/Built_with-Passion-orange?style=for-the-badge" alt="Built with Passion"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&pause=1000&color=89CFF0&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Yuvraj+Mishra;Full+Stack+Developer;Building+beautiful+UIs+and+solid+backends+%F0%9F%8C%8C;Code.+Design.+Debug.+Repeat+%E2%9C%8C%EF%B8%8F" />
-</p>
+**Yuvraj Mishra** | Full-Stack Developer
+
+
+⭐ **If you like this portfolio, give it a star!** ⭐
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
