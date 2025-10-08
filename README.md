@@ -3,9 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e5f1ff&height=220&section=header&text=Yuvraj%20Mishra&fontSize=48&fontColor=0f0f0f&fontAlignY=40" />
 
-
-# ✨ Yuvraj Mishra's Portfolio
-
 <div align="center">
   
   <img src="https://avatars.githubusercontent.com/u/204442132?v=4" alt="Yuvraj Mishra" width="150" height="150" style="border-radius: 50%;" />
@@ -150,34 +147,17 @@ const yuvraj = {
 ## 💼 Experience
 
 ```mermaid
-graph TD
-    A[fa:fa-user-graduate Student]
-    B[fa:fa-lightbulb Self-Learning]
-    C[fa:fa-code-branch ZyrixCraft]
-    D[fa:fa-palette Web Developer & UI/UX Designer]
-    E[fa:fa-building-columns Building the Future...]
-
-    A ==> B
-    B ==> C
-    C ==> D
-    D ==> E
+graph LR
+    A[🎓 Student] --> B[💡 Self-Learning]
+    B --> C[💻 ZyrixCraft]
+    C --> D[🎨 Web Developer & UI/UX Designer]
+    D --> E[🚀 Building the Future...]
     
-    %% Styling
-    classDef base font-weight:bold,stroke-width:2px,padding:5px,border-radius:10px
-    classDef start fill:#E0F2FE,stroke:#0EA5E9,color:#0369A1
-    classDef learning fill:#D1FAE5,stroke:#10B981,color:#065F46
-    classDef project fill:#F3E8FF,stroke:#9333EA,color:#581C87
-    classDef role fill:#FFFBEB,stroke:#F59E0B,color:#B45309
-    classDef future fill:#FEF2F2,stroke:#EF4444,color:#991B1B
-
-    class A,B,C,D,E base
-    class A start
-    class B learning
-    class C project
-    class D role
-    class E future
-
-    linkStyle default stroke:#9CA3AF,stroke-width:3px,color:black
+    style A fill:#ff6b6b,stroke:#c92a2a,color:#fff
+    style B fill:#4ecdc4,stroke:#0a9396,color:#fff
+    style C fill:#45b7d1,stroke:#0077b6,color:#fff
+    style D fill:#96ceb4,stroke:#52b788,color:#fff
+    style E fill:#ffeaa7,stroke:#f4a261,color:#000
 ```
 
 ---
@@ -197,6 +177,16 @@ graph TD
 </div>
 
 ---
+
+## 🌐 Portfolio Website
+
+<div align="center">
+
+[![Visit Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-4CAF50?style=for-the-badge&logoColor=white)](https://yuvrajmishra.vercel.app)
+
+**Live at:** [yuvrajmishra.vercel.app](https://yuvrajmishra.vercel.app)
+
+</div>
 
 ---
 
@@ -230,17 +220,6 @@ If you like what I do, consider buying me a coffee!
 </div>
 
 ---
-
-## 🚀 Portfolio Website
-
-[![Click Here to Vist](https://yuvrajmishra.vercel.com)]
-
-
-### 📋 Prerequisites
-
-- Node.js (v16 or higher)
-- npm or yarn
-- Git
 
 ---
 
@@ -282,9 +261,6 @@ MIT License - Feel free to use this as inspiration for your own portfolio!
 
 **Yuvraj Mishra** | Full-Stack Developer
 
-
-⭐ **If you like this portfolio, give it a star!** ⭐
-
 </div>
 
 ---
@@ -292,3 +268,6 @@ MIT License - Feel free to use this as inspiration for your own portfolio!
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
+```
+
+---
