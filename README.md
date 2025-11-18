@@ -1,13 +1,3 @@
-# Yuvraj Mishra
-
-**Full-Stack Developer | AI Enthusiast | UI/UX Designer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-yuvraj-mishra/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white)](https://yuvrajmishra.vercel.app)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YuvrajMishra)
-
----
-
 ## About Me
 
 Hi! I'm Yuvraj, a full-stack developer from Kolkata, India. I build clean, functional web applications and focus on creating intuitive user experiences. Currently working as a Web Developer & UI/UX Designer at ZyrixCraft.
