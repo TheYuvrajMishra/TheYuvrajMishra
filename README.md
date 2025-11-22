@@ -1,4 +1,4 @@
-## About Me
+## About Me:
 
 Hi! I'm Yuvraj, a full-stack developer from Kolkata, India. I build clean, functional web applications and focus on creating intuitive user experiences. Currently working as a Web Developer & UI/UX Designer at ZyrixCraft.
 
@@ -9,7 +9,7 @@ Hi! I'm Yuvraj, a full-stack developer from Kolkata, India. I build clean, funct
 
 ---
 
-## Skills
+## Skills:
 
 **Frontend**
 
@@ -45,7 +45,7 @@ Hi! I'm Yuvraj, a full-stack developer from Kolkata, India. I build clean, funct
 
 ---
 
-## GitHub Streak
+## GitHub Streak:
 
 <div align="center">
   
@@ -55,7 +55,7 @@ Hi! I'm Yuvraj, a full-stack developer from Kolkata, India. I build clean, funct
 
 ---
 
-## Connect
+## Connect:
 
 **Email:** yuvraj17mishra11@gmail.com  
 **Portfolio:** [yuvrajmishra.vercel.app](https://yuvrajmishra.vercel.app)  
