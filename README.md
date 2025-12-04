@@ -2,10 +2,10 @@
 
 Hi! I'm Yuvraj, a full-stack developer from Kolkata, India. I build clean, functional web applications and focus on creating intuitive user experiences. Currently working as a Web Developer & UI/UX Designer at ZyrixCraft.
 
-**Location:** Kolkata, India  
-**Education:** Internet
-**Current Focus:** TypeScript, React, Node.js, System Design  
-**Interests:** AI/ML, Game Development, Design Systems, Open Source
+**Location:** Kolkata, India  <br/>
+**Education:** Internet <br/>
+**Current Focus:** TypeScript, React, Node.js, System Design <br/> 
+**Interests:** AI/ML, Game Development, Design Systems, Open Source <br/>
 
 ---
 
