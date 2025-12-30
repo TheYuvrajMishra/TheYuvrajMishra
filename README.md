@@ -45,16 +45,6 @@ Hi! I'm Yuvraj, a full-stack developer from Kolkata, India. I build clean, funct
 
 ---
 
-## GitHub Streak:
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheYuvrajMishra&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)](https://github.com/TheYuvrajMishra)
-
-</div>
-
----
-
 ## Connect:
 
 **Email:** yuvraj17mishra11@gmail.com  
