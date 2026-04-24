@@ -48,7 +48,7 @@ Hi! I'm Yuvraj, a full-stack developer from Kolkata, India. I build clean, funct
 ## Connect:
 
 **Email:** yuvraj17mishra11@gmail.com  
-**Portfolio:** [yuvrajmishra.vercel.app](https://yuvrajmishra.vercel.app)  
+**Portfolio:** [yuvrajmishra.online](https://yuvrajmishra.online)  
 **LinkedIn:** [the-yuvraj-mishra](https://www.linkedin.com/in/the-yuvraj-mishra/)
 
 Open to collaboration and interesting projects. Let's build something great together!
